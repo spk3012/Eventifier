@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185357466833",
+    "firebase_url": "https://itachi-61933.firebaseio.com",
+    "project_id": "itachi-61933",
+    "storage_bucket": "itachi-61933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185357466833:android:b373c4a95d518f76",
+        "android_client_info": {
+          "package_name": "com.example.eventnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185357466833-sg8a6g2c09fh2p34pdp8cgf7ejff12ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventnotifier",
+            "certificate_hash": "f16786b5b62d9a98237f952b3637d37db32a7b9f"
+          }
+        },
+        {
+          "client_id": "185357466833-m1j9ps8i1cqhqug1k91jgcqj1im4m3m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGVqS6NmHfWTgVerBAF0jzwluRoPcdc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185357466833-m1j9ps8i1cqhqug1k91jgcqj1im4m3m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
